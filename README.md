@@ -15,8 +15,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AnasCodesPro&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Dev Quote
+
+> "Bad programmers worry about the code. Good programmers worry about data structures and their relationships."
+> — Linus Torvalds
 
 ---
 [![](https://komarev.com/ghpvc/?username=AnasCodesPro&icon=0&color=0)](https://visitcount.itsvg.in)
