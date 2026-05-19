@@ -29,14 +29,6 @@
 **BI & Analytics**<br>
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=AnasCodesPro&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=AnasCodesPro&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AnasCodesPro&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AnasCodesPro&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Dev Quote
 
 > "Bad programmers worry about the code. Good programmers worry about data structures and their relationships."
