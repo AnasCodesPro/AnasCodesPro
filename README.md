@@ -1,10 +1,8 @@
-# 💫 About Me:
-🔭 I'm currently working on — Cloud & ML infrastructure at DigitalOcean, building scalable ETL pipelines and containerized ML environments.<br>
-🌱 I'm currently learning — MLOps best practices, Generative AI for Data Engineering, and advanced AWS ML services.<br>
-👯 I'm looking to collaborate on — Data engineering projects, real-time data pipelines, and open-source MLOps tooling.<br>
-🤔 I'm looking for help with — Large-scale distributed data systems and cutting-edge ML deployment strategies.<br>
-💬 Ask me about — ETL pipelines, cloud infrastructure (AWS/GCP), Docker/Kubernetes, SQL optimization, and time-series modeling.<br>
-⚡ Fun fact — I went from Telecom Engineering to Data Science — turns out networks and neural nets have more in common than you'd think!
+# About Me:
+I'm currently working on — Cloud & ML infrastructure at DigitalOcean, building scalable ETL pipelines and containerized ML environments.<br>
+I'm currently learning — MLOps best practices, Generative AI for Data Engineering, and advanced AWS ML services.<br>
+I'm looking to collaborate on — Data engineering projects, real-time data pipelines, and open-source MLOps tooling.<br>
+Fun fact — I went from Telecom Engineering to Data Science — turns out networks and neural nets have more in common than you'd think!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadanaskhi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadanasaug@gmail.com)
